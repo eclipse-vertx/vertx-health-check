@@ -1,7 +1,7 @@
 = Vert.x Health Check
 
-image:https://github.com/vert-x3/vertx-health-check/actions/workflows/ci-5.x.yml/badge.svg["Build Status (5.x)",link="https://github.com/vert-x3/vertx-health-check/actions/workflows/ci-5.x.yml"]
-image:https://github.com/vert-x3/vertx-health-check/actions/workflows/ci-4.x.yml/badge.svg["Build Status (4.x)",link="https://github.com/vert-x3/vertx-health-check/actions/workflows/ci-4.x.yml"]
+image:https://github.com/eclipse-vertx/vertx-health-check/actions/workflows/ci-5.x.yml/badge.svg["Build Status (5.x)",link="https://github.com/eclipse-vertx/vertx-health-check/actions/workflows/ci-5.x.yml"]
+image:https://github.com/eclipse-vertx/vertx-health-check/actions/workflows/ci-4.x.yml/badge.svg["Build Status (4.x)",link="https://github.com/eclipse-vertx/vertx-health-check/actions/workflows/ci-4.x.yml"]
 
 This component provides a simple way to expose health checks. Health checks are used to express the current state
 of the application in very simple terms: _UP_ or _DOWN_. The health checks can be used individually, or in
