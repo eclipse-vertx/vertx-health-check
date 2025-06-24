@@ -11,6 +11,8 @@
   <artifactId>vertx-health-check</artifactId>
   <version>5.0.1-SNAPSHOT</version>
 
+  <name>Vert.x Health Checks</name>
+
   <scm>
     <connection>scm:git:git@github.com:eclipse-vertx/vertx-health-check.git</connection>
     <developerConnection>scm:git:git@github.com:eclipse-vertx/vertx-health-check.git</developerConnection>
