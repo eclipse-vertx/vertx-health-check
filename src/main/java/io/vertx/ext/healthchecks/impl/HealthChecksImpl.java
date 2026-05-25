@@ -1,6 +1,5 @@
 package io.vertx.ext.healthchecks.impl;
 
-import io.vertx.core.AsyncResult;
 import io.vertx.core.Future;
 import io.vertx.core.Handler;
 import io.vertx.core.Promise;
