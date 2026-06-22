@@ -10,7 +10,7 @@
 
   <name>vertx-health-check</name>
   <artifactId>vertx-health-check</artifactId>
-  <version>5.1.3</version>
+  <version>5.1.4-SNAPSHOT</version>
 
   <scm>
     <connection>scm:git:git@github.com:eclipse-vertx/vertx-health-check.git</connection>
