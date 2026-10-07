@@ -15,6 +15,7 @@ module io.vertx.healthcheck {
   requires static io.vertx.codegen.json;
 
   requires io.vertx.core;
+  requires io.vertx.core.logging;
 
   exports io.vertx.ext.healthchecks;
   exports io.vertx.ext.healthchecks.impl to io.vertx.healthcheck.tests;
